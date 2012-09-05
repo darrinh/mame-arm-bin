@@ -6,7 +6,7 @@ Arm binaries for Advance-MAME
 
 Install
 =======
-* Untar in any directory, eg, /usr/local/mame.
+* Place files in any directory, eg, /usr/local/mame.
 * Create initial mame config by running:
   ./advmame --defaults
 
