@@ -13,9 +13,7 @@ Install
 * Don't forget to run ./advcfg to setup the screen resolutions.
 * You might need to install the gpm package (sudo apt-get install gpm) for console mouse.
 
+To use: ./advmame <rom name>
 
-=======
-mame-arm-bin
-============
 
-Mame binaries for Raspberry PI
+Note: If you are not using the default login 'pi', you will need to add the username you are using to the 'video','input' and sudo groups in /etc/groups.
