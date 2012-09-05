@@ -14,3 +14,8 @@ Install
 * You might need to install the gpm package (sudo apt-get install gpm) for console mouse.
 
 
+=======
+mame-arm-bin
+============
+
+Mame binaries for Raspberry PI
